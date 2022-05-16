@@ -11,9 +11,10 @@ The aim is to identify subsets of proteins that are discriminant between the cla
 Basically, this is multi-class classification problem
 
 # Project Demo
+https://www.youtube.com/watch?v=1Ejul0T7Z_s&t=17s
 
 # Documents
-
+HLD/LLD/Architecture : https://drive.google.com/drive/folders/18ZT7pDXsBhl_65RpkLonHWmTa41LBcNj?usp=sharing
 
 # Database
 MySQL database has been used to store training, prediction dataset and for logging
