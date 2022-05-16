@@ -18,8 +18,7 @@ HLD/LLD/Architecture : https://drive.google.com/drive/folders/18ZT7pDXsBhl_65Rpk
 
 # Database
 MySQL database has been used to store training, prediction dataset and for logging
-# :desktop_computer:	 Installation
-### :hammer_and_wrench: Requirements
+## :hammer_and_wrench: Requirements
 - python 3.x
 - Flask
 - pandas
